@@ -16,7 +16,6 @@ const {
 
 } = process.env;
 */
-
 const options = {
   useNewUrlParser: true,
   reconnectTries: Number.MAX_VALUE,
