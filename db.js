@@ -1,12 +1,12 @@
 const mongoose = require('mongoose');
 
-/*
+
 const MONGO_USERNAME = 'userdemo';
 const MONGO_PASSWORD = 'Tecsup';
 const MONGO_HOSTNAME = '127.0.0.1';
 const MONGO_PORT = '27017';
 const MONGO_DB = 'notes-db';
-*/
+/*
 const {
     MONGO_USERNAME,
     MONGO_PASSWORD,
@@ -15,6 +15,7 @@ const {
     MONGO_DB
 
 } = process.env;
+*/
 
 const options = {
   useNewUrlParser: true,
